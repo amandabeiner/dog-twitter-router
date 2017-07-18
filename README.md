@@ -16,5 +16,4 @@ In a new terminal tab, run:
   npm install
   npm start
 ```
-
 And navigate to `localhost:4567`
